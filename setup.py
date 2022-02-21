@@ -13,5 +13,5 @@ setup(name='mlprojectJoao',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/mlprojectJoao-run'],
+      scripts=['scripts/mlprojectJoao-run', 'scripts/mlprojectJoao-tryme'],
       zip_safe=False)
